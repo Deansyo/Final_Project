@@ -1,12 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
-// Arduino 16x2 LCD I2C Scanner
-/*
-Analog Pin 4 - SDA
-Analog pin 5 - SCL
-5V  - Vcc
-GND - GND
-*/
-
 #include <Wire.h>
 void setup()
 {
